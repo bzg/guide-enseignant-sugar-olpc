@@ -1,5 +1,6 @@
 #+TITLE: Guide de l'enseignant Sugar/OLPC
 #+AUTHOR: OLPC France
+#+STYLE: <link rel="stylesheet" href="http://olpc-france.org/guide-deploiement/style.css" type="text/css" />
 
 * P.O.E.S.I.E
 
@@ -57,8 +58,8 @@ Sujet: maîtrise de la langue française (lecture, écriture, expression oral)
 - Les élèves travailleront par deux pour effectuer une lecture théatrale
   d’une court livre pour enfants, d’un poème ou d’un chapitre de roman.
 
-- Les élèves auront à explorer les différents sons and accompagnement avec
-  tamtammini.
+- Les élèves auront à explorer les différents sons and accompagnement
+  avec *TamTam Mini*.
 
 ** Niveau : cycle 3
 
@@ -73,7 +74,7 @@ Sujet: maîtrise de la langue française (lecture, écriture, expression oral)
 - Impression de clavier de piano
 - Si possible une casque audio pour chaque élève
 
-** Activités : tamtammini
+** Activités : TamTam Mini
 
 ** Introduction
 
@@ -93,13 +94,13 @@ Installation :
 Créer puis jouer une lecture théatrale en utilisant des effets sonores à
 partir des ordinateurs.
 
-1. Dans Tamtammini, les étudiants peuvent clicker sur les images pour
+1. Dans TamTam Mini, les étudiants peuvent clicker sur les images pour
    explorer la gamme des sons disponibles. Chaque image correspond à
    différents sons (voir les copies d’écran ci-dessous). Utilisez
    l’ensemble du clavier pour voir la gamme complète des sons s pour chaque
    image.
 
-2. À partir de la vue principale choisir « tamtammini »
+2. À partir de la vue principale choisir « TamTam Mini »
 
 3. Parcourez l’histoire et explorez les possibles en ajoutant différents
    effets sonores pour votre lecture.
@@ -155,7 +156,7 @@ partir des ordinateurs.
 ** Objectifs
 
 - Les élèves joueront une mélodie avec l’accompagnement.
-- Les élèves exploreront des sons variés et les accompagnements dans Tamtam
+- Les élèves exploreront des sons variés et les accompagnements dans TamTam
   Mini.
 
 ** Niveaux : 6ème 5ème 4ème
@@ -168,7 +169,7 @@ partir des ordinateurs.
 - Impressions de clavier de piano
 - Écouteurs pour chacun des élèves si possible
 - Partitions
-- Activité : Tam Tam Mini
+- Activité : TamTam Mini
 
 ** Modifications et adaptations
 
@@ -191,7 +192,7 @@ piano et montera aux élèves comment jouer la mélodie sur leur XO’s. Les
 
 ** Ce que les étudiants feront
 
-- De la vue principale, choisir “Tam Tam Mini.”
+- De la vue principale, choisir “TamTam Mini.”
 - Les élèves doivent cliquer sur les images pour explorer les sons. Chaque image correspond à un son différent.
 - Les élèves peuvent  jouer les mélodies à partir des sons qu’ils choisissent.
 - Pour ajouter la percussion en fond musical, cliquer sur une des icônes de style de percussion sur la gauche de l’écran. Préciser le nombre de “battements par barre” (suggestion : moins que 8 bpb)
