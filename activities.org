@@ -2,6 +2,12 @@
 #+AUTHOR: OLPC France
 #+STYLE: <link rel="stylesheet" href="http://olpc-france.org/guide-deploiement/style.css" type="text/css" />
 
+Ceci est la traduction par l'équipe d'[[http://olpc-france.org][OLPC France]] du guide publié par [[http://olpccanada.com][OLPC
+Canada]] ([[http://www.olpccanada.com/wp-content/themes/olpc/pdf/educator_guide.pdf][PDF]]) ; nous les remercions ici de nous avons accordé l'autorisation
+de commencer cette traduction.
+
+Une version =.doc= est disponible [[file:activities.doc][ici]].
+
 * P.O.E.S.I.E
 
 ** Objectifs pédagogiques
