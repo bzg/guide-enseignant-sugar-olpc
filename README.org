@@ -5,3 +5,5 @@ Canada:
 
 http://www.olpccanada.com/wp-content/themes/olpc/pdf/educator_guide.pdf
 
+Pour vous joindre à l'effort de traduction d'OLPC France, merci d'écrire à
+contact@olpc-france.org
