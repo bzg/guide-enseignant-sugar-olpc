@@ -1,0 +1,7 @@
+#+TITLE: Guide de l'enseignant Sugar/OLPC
+
+Ce dépôt contient une traduction en cours de ce guide, publié par OLPC
+Canada: 
+
+http://www.olpccanada.com/wp-content/themes/olpc/pdf/educator_guide.pdf
+
